@@ -1,0 +1,16 @@
+
+.Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    background-color: darkslategrey;
+
+    h2, a {
+        color: white;
+        font-style: italic;
+        text-decoration: none;
+    }
+
+    
+}
